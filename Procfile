@@ -1,1 +1,1 @@
-web: vendor/bin/orchard-php-nginx 
+web: vendor/bin/heroku-php-apache2 web/
